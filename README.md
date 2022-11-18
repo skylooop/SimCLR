@@ -1,1 +1,1 @@
-## Unofficial implementation of SimCLR model
+## Unofficial implementation of SimCLR model (WIP)
